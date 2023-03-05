@@ -1,4 +1,4 @@
-﻿public void ReverseArray(ref int[] arr)
+﻿ void ReverseArray(ref int[] arr)
 {
     int temp;
     int start = 0;
