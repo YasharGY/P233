@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse Method", "Reverse Method\Reverse Method.csproj", "{766D51F5-2B62-4696-B179-8F4581A7DA27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{766D51F5-2B62-4696-B179-8F4581A7DA27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{766D51F5-2B62-4696-B179-8F4581A7DA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{766D51F5-2B62-4696-B179-8F4581A7DA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{766D51F5-2B62-4696-B179-8F4581A7DA27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7DC8FB5-67F2-4848-A020-0338F9805D5F}
+	EndGlobalSection
+EndGlobal

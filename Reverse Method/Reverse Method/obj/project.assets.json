@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\P233\\P233\\Reverse Method\\Reverse Method\\Reverse Method.csproj",
+      "projectName": "Reverse Method",
+      "projectPath": "C:\\Users\\HP\\Desktop\\P233\\P233\\Reverse Method\\Reverse Method\\Reverse Method.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\P233\\P233\\Reverse Method\\Reverse Method\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
