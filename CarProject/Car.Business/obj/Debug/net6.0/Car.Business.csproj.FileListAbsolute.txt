@@ -1,0 +1,17 @@
+C:\Users\kamran.jabiyev\source\repos\CarProject\Car.Business\bin\Debug\net6.0\Car.Business.deps.json
+C:\Users\kamran.jabiyev\source\repos\CarProject\Car.Business\bin\Debug\net6.0\Car.Business.dll
+C:\Users\kamran.jabiyev\source\repos\CarProject\Car.Business\bin\Debug\net6.0\Car.Business.pdb
+C:\Users\kamran.jabiyev\source\repos\CarProject\Car.Business\obj\Debug\net6.0\Car.Business.csproj.AssemblyReference.cache
+C:\Users\kamran.jabiyev\source\repos\CarProject\Car.Business\obj\Debug\net6.0\Car.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran.jabiyev\source\repos\CarProject\Car.Business\obj\Debug\net6.0\Car.Business.AssemblyInfoInputs.cache
+C:\Users\kamran.jabiyev\source\repos\CarProject\Car.Business\obj\Debug\net6.0\Car.Business.AssemblyInfo.cs
+C:\Users\kamran.jabiyev\source\repos\CarProject\Car.Business\obj\Debug\net6.0\Car.Business.csproj.CoreCompileInputs.cache
+C:\Users\kamran.jabiyev\source\repos\CarProject\Car.Business\obj\Debug\net6.0\Car.Business.dll
+C:\Users\kamran.jabiyev\source\repos\CarProject\Car.Business\obj\Debug\net6.0\refint\Car.Business.dll
+C:\Users\kamran.jabiyev\source\repos\CarProject\Car.Business\obj\Debug\net6.0\Car.Business.pdb
+C:\Users\kamran.jabiyev\source\repos\CarProject\Car.Business\obj\Debug\net6.0\ref\Car.Business.dll
+C:\Users\kamran.jabiyev\source\repos\CarProject\Car.Business\bin\Debug\net6.0\Car.Core.dll
+C:\Users\kamran.jabiyev\source\repos\CarProject\Car.Business\bin\Debug\net6.0\Car.Core.pdb
+C:\Users\kamran.jabiyev\source\repos\CarProject\Car.Business\obj\Debug\net6.0\Car.Business.csproj.CopyComplete
+C:\Users\kamran.jabiyev\source\repos\CarProject\Car.Business\bin\Debug\net6.0\Car.DataAccess.dll
+C:\Users\kamran.jabiyev\source\repos\CarProject\Car.Business\bin\Debug\net6.0\Car.DataAccess.pdb
