@@ -1,0 +1,15 @@
+C:\WorkSpace\task reverse,join,trim\join\Kelvin-ve-Celsius\Kelvin-ve-Celsius\obj\Debug\net6.0\Kelvin-ve-Celsius.csproj.AssemblyReference.cache
+C:\WorkSpace\task reverse,join,trim\join\Kelvin-ve-Celsius\Kelvin-ve-Celsius\obj\Debug\net6.0\Kelvin-ve-Celsius.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\task reverse,join,trim\join\Kelvin-ve-Celsius\Kelvin-ve-Celsius\obj\Debug\net6.0\Kelvin-ve-Celsius.AssemblyInfoInputs.cache
+C:\WorkSpace\task reverse,join,trim\join\Kelvin-ve-Celsius\Kelvin-ve-Celsius\obj\Debug\net6.0\Kelvin-ve-Celsius.AssemblyInfo.cs
+C:\WorkSpace\task reverse,join,trim\join\Kelvin-ve-Celsius\Kelvin-ve-Celsius\obj\Debug\net6.0\Kelvin-ve-Celsius.csproj.CoreCompileInputs.cache
+C:\WorkSpace\task reverse,join,trim\join\Kelvin-ve-Celsius\Kelvin-ve-Celsius\bin\Debug\net6.0\Kelvin-ve-Celsius.exe
+C:\WorkSpace\task reverse,join,trim\join\Kelvin-ve-Celsius\Kelvin-ve-Celsius\bin\Debug\net6.0\Kelvin-ve-Celsius.deps.json
+C:\WorkSpace\task reverse,join,trim\join\Kelvin-ve-Celsius\Kelvin-ve-Celsius\bin\Debug\net6.0\Kelvin-ve-Celsius.runtimeconfig.json
+C:\WorkSpace\task reverse,join,trim\join\Kelvin-ve-Celsius\Kelvin-ve-Celsius\bin\Debug\net6.0\Kelvin-ve-Celsius.dll
+C:\WorkSpace\task reverse,join,trim\join\Kelvin-ve-Celsius\Kelvin-ve-Celsius\bin\Debug\net6.0\Kelvin-ve-Celsius.pdb
+C:\WorkSpace\task reverse,join,trim\join\Kelvin-ve-Celsius\Kelvin-ve-Celsius\obj\Debug\net6.0\Kelvin-ve-Celsius.dll
+C:\WorkSpace\task reverse,join,trim\join\Kelvin-ve-Celsius\Kelvin-ve-Celsius\obj\Debug\net6.0\refint\Kelvin-ve-Celsius.dll
+C:\WorkSpace\task reverse,join,trim\join\Kelvin-ve-Celsius\Kelvin-ve-Celsius\obj\Debug\net6.0\Kelvin-ve-Celsius.pdb
+C:\WorkSpace\task reverse,join,trim\join\Kelvin-ve-Celsius\Kelvin-ve-Celsius\obj\Debug\net6.0\Kelvin-ve-Celsius.genruntimeconfig.cache
+C:\WorkSpace\task reverse,join,trim\join\Kelvin-ve-Celsius\Kelvin-ve-Celsius\obj\Debug\net6.0\ref\Kelvin-ve-Celsius.dll

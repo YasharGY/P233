@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Kelvin-ve-Celsius/1.0.0": {
+        "runtime": {
+          "Kelvin-ve-Celsius.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kelvin-ve-Celsius/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
