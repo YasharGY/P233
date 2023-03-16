@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\P233\P233\ExtensionProject\ExtensionProject\bin\Debug\net6.0\ExtensionProject.exe
+C:\Users\HP\Desktop\P233\P233\ExtensionProject\ExtensionProject\bin\Debug\net6.0\ExtensionProject.deps.json
+C:\Users\HP\Desktop\P233\P233\ExtensionProject\ExtensionProject\bin\Debug\net6.0\ExtensionProject.runtimeconfig.json
+C:\Users\HP\Desktop\P233\P233\ExtensionProject\ExtensionProject\bin\Debug\net6.0\ExtensionProject.dll
+C:\Users\HP\Desktop\P233\P233\ExtensionProject\ExtensionProject\bin\Debug\net6.0\ExtensionProject.pdb
+C:\Users\HP\Desktop\P233\P233\ExtensionProject\ExtensionProject\obj\Debug\net6.0\ExtensionProject.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\P233\P233\ExtensionProject\ExtensionProject\obj\Debug\net6.0\ExtensionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\P233\P233\ExtensionProject\ExtensionProject\obj\Debug\net6.0\ExtensionProject.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\P233\P233\ExtensionProject\ExtensionProject\obj\Debug\net6.0\ExtensionProject.AssemblyInfo.cs
+C:\Users\HP\Desktop\P233\P233\ExtensionProject\ExtensionProject\obj\Debug\net6.0\ExtensionProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\P233\P233\ExtensionProject\ExtensionProject\obj\Debug\net6.0\ExtensionProject.dll
+C:\Users\HP\Desktop\P233\P233\ExtensionProject\ExtensionProject\obj\Debug\net6.0\refint\ExtensionProject.dll
+C:\Users\HP\Desktop\P233\P233\ExtensionProject\ExtensionProject\obj\Debug\net6.0\ExtensionProject.pdb
+C:\Users\HP\Desktop\P233\P233\ExtensionProject\ExtensionProject\obj\Debug\net6.0\ExtensionProject.genruntimeconfig.cache
+C:\Users\HP\Desktop\P233\P233\ExtensionProject\ExtensionProject\obj\Debug\net6.0\ref\ExtensionProject.dll

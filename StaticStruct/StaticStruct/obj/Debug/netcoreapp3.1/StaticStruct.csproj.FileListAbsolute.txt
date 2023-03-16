@@ -1,0 +1,13 @@
+D:\P125\StaticStruct\StaticStruct\bin\Debug\netcoreapp3.1\StaticStruct.exe
+D:\P125\StaticStruct\StaticStruct\bin\Debug\netcoreapp3.1\StaticStruct.deps.json
+D:\P125\StaticStruct\StaticStruct\bin\Debug\netcoreapp3.1\StaticStruct.runtimeconfig.json
+D:\P125\StaticStruct\StaticStruct\bin\Debug\netcoreapp3.1\StaticStruct.runtimeconfig.dev.json
+D:\P125\StaticStruct\StaticStruct\bin\Debug\netcoreapp3.1\StaticStruct.dll
+D:\P125\StaticStruct\StaticStruct\bin\Debug\netcoreapp3.1\StaticStruct.pdb
+D:\P125\StaticStruct\StaticStruct\obj\Debug\netcoreapp3.1\StaticStruct.csprojAssemblyReference.cache
+D:\P125\StaticStruct\StaticStruct\obj\Debug\netcoreapp3.1\StaticStruct.AssemblyInfoInputs.cache
+D:\P125\StaticStruct\StaticStruct\obj\Debug\netcoreapp3.1\StaticStruct.AssemblyInfo.cs
+D:\P125\StaticStruct\StaticStruct\obj\Debug\netcoreapp3.1\StaticStruct.csproj.CoreCompileInputs.cache
+D:\P125\StaticStruct\StaticStruct\obj\Debug\netcoreapp3.1\StaticStruct.dll
+D:\P125\StaticStruct\StaticStruct\obj\Debug\netcoreapp3.1\StaticStruct.pdb
+D:\P125\StaticStruct\StaticStruct\obj\Debug\netcoreapp3.1\StaticStruct.genruntimeconfig.cache
