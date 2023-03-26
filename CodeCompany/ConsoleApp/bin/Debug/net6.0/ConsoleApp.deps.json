@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleApp/1.0.0": {
+        "dependencies": {
+          "CodeCompany.Core": "1.0.0",
+          "CodeCompanyInfrastucture": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp.dll": {}
+        }
+      },
+      "CodeCompany.Core/1.0.0": {
+        "runtime": {
+          "CodeCompany.Core.dll": {}
+        }
+      },
+      "CodeCompanyInfrastucture/1.0.0": {
+        "dependencies": {
+          "CodeCompany.Core": "1.0.0"
+        },
+        "runtime": {
+          "CodeCompanyInfrastucture.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CodeCompany.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CodeCompanyInfrastucture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

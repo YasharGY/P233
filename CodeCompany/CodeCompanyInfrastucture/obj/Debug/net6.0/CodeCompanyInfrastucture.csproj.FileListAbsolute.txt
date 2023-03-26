@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompanyInfrastucture\obj\Debug\net6.0\CodeCompanyInfrastucture.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompanyInfrastucture\obj\Debug\net6.0\CodeCompanyInfrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompanyInfrastucture\obj\Debug\net6.0\CodeCompanyInfrastucture.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompanyInfrastucture\obj\Debug\net6.0\CodeCompanyInfrastucture.AssemblyInfo.cs
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompanyInfrastucture\obj\Debug\net6.0\CodeCompanyInfrastucture.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompanyInfrastucture\bin\Debug\net6.0\CodeCompanyInfrastucture.deps.json
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompanyInfrastucture\bin\Debug\net6.0\CodeCompanyInfrastucture.dll
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompanyInfrastucture\bin\Debug\net6.0\CodeCompanyInfrastucture.pdb
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompanyInfrastucture\bin\Debug\net6.0\CodeCompany.Core.dll
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompanyInfrastucture\bin\Debug\net6.0\CodeCompany.Core.pdb
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompanyInfrastucture\obj\Debug\net6.0\CodeCompanyInfrastucture.csproj.CopyComplete
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompanyInfrastucture\obj\Debug\net6.0\CodeCompanyInfrastucture.dll
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompanyInfrastucture\obj\Debug\net6.0\refint\CodeCompanyInfrastucture.dll
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompanyInfrastucture\obj\Debug\net6.0\CodeCompanyInfrastucture.pdb
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompanyInfrastucture\obj\Debug\net6.0\ref\CodeCompanyInfrastucture.dll
