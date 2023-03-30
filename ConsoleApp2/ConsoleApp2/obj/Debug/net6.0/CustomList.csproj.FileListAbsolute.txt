@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\P233\P233\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\CustomList.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\P233\P233\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\CustomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\P233\P233\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\CustomList.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\P233\P233\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\CustomList.AssemblyInfo.cs
+C:\Users\HP\Desktop\P233\P233\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\CustomList.csproj.CoreCompileInputs.cache

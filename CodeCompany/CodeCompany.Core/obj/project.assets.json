@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\P233\\P233\\CodeCompany\\CodeCompany.Core\\CodeCompany.Core.csproj",
-      "projectName": "CodeCompany.Core",
-      "projectPath": "C:\\Users\\HP\\Desktop\\P233\\P233\\CodeCompany\\CodeCompany.Core\\CodeCompany.Core.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\P233\\P233\\CodeCompany\\CodeCompany.Core\\CodeCompanyCore.csproj",
+      "projectName": "CodeCompanyCore",
+      "projectPath": "C:\\Users\\HP\\Desktop\\P233\\P233\\CodeCompany\\CodeCompany.Core\\CodeCompanyCore.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\HP\\Desktop\\P233\\P233\\CodeCompany\\CodeCompany.Core\\obj\\",
       "projectStyle": "PackageReference",

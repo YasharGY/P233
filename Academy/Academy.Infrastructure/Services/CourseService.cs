@@ -4,12 +4,12 @@ using System.Data;
 
 namespace Academy.Infrastructure.Services;
 
-public class CourseService 
+public class CourseService
 {
     private static int index_counter = 0;
-    public void Create(string? name)           
+    public void Create(string? name)
     {
-        if(String.IsNullOrWhiteSpace(name))
+        if (String.IsNullOrWhiteSpace(name))
         {
             throw new ArgumentNullException();
         }
@@ -26,7 +26,7 @@ public class CourseService
             throw new DuplicateNameException("This course name already exist");
         }
         Course new_course = new(name);
-        AppDbContext.Courses[index_counter++] =new_course;
+        AppDbContext.Courses[index_counter++] = new_course;
     }
 
     public void GetAll()
@@ -37,3 +37,6 @@ public class CourseService
         }
     }
 }
+
+
+

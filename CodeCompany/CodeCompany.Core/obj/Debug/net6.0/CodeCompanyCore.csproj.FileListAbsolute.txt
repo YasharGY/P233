@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompany.Core\bin\Debug\net6.0\CodeCompanyCore.deps.json
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompany.Core\bin\Debug\net6.0\CodeCompanyCore.dll
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompany.Core\bin\Debug\net6.0\CodeCompanyCore.pdb
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompany.Core\obj\Debug\net6.0\CodeCompanyCore.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompany.Core\obj\Debug\net6.0\CodeCompanyCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompany.Core\obj\Debug\net6.0\CodeCompanyCore.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompany.Core\obj\Debug\net6.0\CodeCompanyCore.AssemblyInfo.cs
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompany.Core\obj\Debug\net6.0\CodeCompanyCore.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompany.Core\obj\Debug\net6.0\CodeCompanyCore.dll
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompany.Core\obj\Debug\net6.0\refint\CodeCompanyCore.dll
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompany.Core\obj\Debug\net6.0\CodeCompanyCore.pdb
+C:\Users\HP\Desktop\P233\P233\CodeCompany\CodeCompany.Core\obj\Debug\net6.0\ref\CodeCompanyCore.dll

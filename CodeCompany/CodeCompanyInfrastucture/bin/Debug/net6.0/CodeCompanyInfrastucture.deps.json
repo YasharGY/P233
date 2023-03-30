@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v6.0": {
       "CodeCompanyInfrastucture/1.0.0": {
         "dependencies": {
-          "CodeCompany.Core": "1.0.0"
+          "CodeCompanyCore": "1.0.0"
         },
         "runtime": {
           "CodeCompanyInfrastucture.dll": {}
         }
       },
-      "CodeCompany.Core/1.0.0": {
+      "CodeCompanyCore/1.0.0": {
         "runtime": {
-          "CodeCompany.Core.dll": {}
+          "CodeCompanyCore.dll": {}
         }
       }
     }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "CodeCompany.Core/1.0.0": {
+    "CodeCompanyCore/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

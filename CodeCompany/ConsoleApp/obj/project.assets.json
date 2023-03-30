@@ -2,21 +2,21 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "CodeCompany.Core/1.0.0": {
+      "CodeCompanyCore/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/CodeCompany.Core.dll": {}
+          "bin/placeholder/CodeCompanyCore.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CodeCompany.Core.dll": {}
+          "bin/placeholder/CodeCompanyCore.dll": {}
         }
       },
       "CodeCompanyInfrastucture/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "CodeCompany.Core": "1.0.0"
+          "CodeCompanyCore": "1.0.0"
         },
         "compile": {
           "bin/placeholder/CodeCompanyInfrastucture.dll": {}
@@ -28,10 +28,10 @@
     }
   },
   "libraries": {
-    "CodeCompany.Core/1.0.0": {
+    "CodeCompanyCore/1.0.0": {
       "type": "project",
-      "path": "../CodeCompany.Core/CodeCompany.Core.csproj",
-      "msbuildProject": "../CodeCompany.Core/CodeCompany.Core.csproj"
+      "path": "../CodeCompany.Core/CodeCompanyCore.csproj",
+      "msbuildProject": "../CodeCompany.Core/CodeCompanyCore.csproj"
     },
     "CodeCompanyInfrastucture/1.0.0": {
       "type": "project",
@@ -41,7 +41,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "CodeCompany.Core >= 1.0.0",
+      "CodeCompanyCore >= 1.0.0",
       "CodeCompanyInfrastucture >= 1.0.0"
     ]
   },
@@ -77,8 +77,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\HP\\Desktop\\P233\\P233\\CodeCompany\\CodeCompany.Core\\CodeCompany.Core.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\P233\\P233\\CodeCompany\\CodeCompany.Core\\CodeCompany.Core.csproj"
+            "C:\\Users\\HP\\Desktop\\P233\\P233\\CodeCompany\\CodeCompany.Core\\CodeCompanyCore.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\P233\\P233\\CodeCompany\\CodeCompany.Core\\CodeCompanyCore.csproj"
             },
             "C:\\Users\\HP\\Desktop\\P233\\P233\\CodeCompany\\CodeCompanyInfrastucture\\CodeCompanyInfrastucture.csproj": {
               "projectPath": "C:\\Users\\HP\\Desktop\\P233\\P233\\CodeCompany\\CodeCompanyInfrastucture\\CodeCompanyInfrastucture.csproj"
